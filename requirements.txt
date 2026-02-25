@@ -1,0 +1,11 @@
+# RAG Search Methods Lab Requirements
+# Core search libraries
+numpy>=1.26.0,<2
+sentence-transformers
+python-dotenv
+chromadb
+torch
+radis
+hashlib
+
+
